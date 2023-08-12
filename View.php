@@ -35,9 +35,9 @@
 		<a href="Details.html">Personal Details</a>
 		<a href="Projects.html">Projects</a>
 		<a href="Achievements.html">Achievements</a>
-        <a href="Contact.php">Contacts</a>
+        	<a href="Contact.php">Contacts</a>
 		<a href="AddProjects.php">Add Projects</a>
-        <a class="active">View Projects</a>
+        	<a class="active">View Projects</a>
 
 	</div>
 	
@@ -46,9 +46,9 @@
 		<a href="Details.html">Personal Details</a>
 		<a href="Projects.html">Projects</a>
 		<a href="Achievements.html">Achievements</a>
-        <a href="Contact.php">Contacts</a>
+        	<a href="Contact.php">Contacts</a>
 		<a href="AddProjects.php">Add Projects</a>
-        <a class="active">View Projects</a>
+        	<a class="active">View Projects</a>
 	</div>
 
 	<div class="content">
