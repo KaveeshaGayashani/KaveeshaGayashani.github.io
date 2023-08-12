@@ -23,7 +23,6 @@ body {
 	position: relative;
 	left: 40%;
 }
-}
 .menu a:hover {
 	background-color: #0000e6;
 }
@@ -69,6 +68,9 @@ body {
 	background-color: #fff;
 	border-radius: 5px;
 	box-shadow: 0 2px 5px rgba(0,0,0,0.3);
+}
+form {
+	padding: 30px;
 }
 h2 {
 	margin-top: 0;
@@ -119,33 +121,4 @@ h1 {
   text-align: left;
   margin-top: 20px;
 }
-
-#slider {
-	width: 500px;
-	height: 350px;
-	margin: 0 auto;
-	overflow: hidden;
-	position: relative;
-  }
-  
-  .slider-img {
-	width: 100%;
-	height: 100%;
-	position: absolute;
-  }
-  
-  .prev, .next {
-	position: absolute;
-	top: 50%;
-	transform: translateY(-50%);
-	cursor: pointer;
-  }
-  
-  .prev {
-	left: 15px;
-  }
-  
-  .next {
-	right: 15px;
-  }
   
